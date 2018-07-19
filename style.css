@@ -3,12 +3,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
 body {
-  background-color: white;
+  background-color: #474747;
   font-family: "Roboto", sans-serif;
   padding: 5px 25px;
   font-size: 18px;
   margin: 0;
-  color: #474747;
+  color: #FFFFFF;
 }
 
 h1 {
