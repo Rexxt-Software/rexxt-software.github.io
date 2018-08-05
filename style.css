@@ -27,7 +27,17 @@ background-color:#191919;
   box-shadow: 0px 2px 0px #FFFFFF
 }
 
-#menubutton{
+#min-menubutton{
+    background-color: #474747
     color: #ffffff;
     font-family: "Montserrat", serif;
+    border-radius: 100px;
 }
+
+#min-a-menubutton{
+     background-color: #ffffff
+    color: #474747;
+    font-family: "Montserrat", serif;
+    border-radius: 100px;
+}
+  
